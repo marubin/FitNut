@@ -1,0 +1,19 @@
+[class*="col-"] {
+  border: 1px solid rgba(86, 61, 124, .2);
+}
+
+.container-fluid {
+  height: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.middle {
+  display:flex;
+  align-items:center;
+  text-align:center;
+}
+
+.scrollable {
+  overflow-y: scroll
+}
